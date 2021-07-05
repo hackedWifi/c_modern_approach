@@ -1,0 +1,11 @@
+// The islower function, which belongs to the <ctype.h>, tests whether a character
+// is a lower case letter. Why would the following macro version of is lower not be
+// legal, according to the C standard?
+
+// #define islower(c) ((c) >= 'a' && (c) <= 'z')
+
+// The C99 Standard in the Macro replacement section 6.10.3 Constraints, 
+stipulates that an identifier currently defined as a function-like macro shall 
+not be redefined by another #define preprocessing directive unless the second
+definiton is a function-like macro definition that has the same number and spe-
+lling of parameters, and the two replacement are identical.

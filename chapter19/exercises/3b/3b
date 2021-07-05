@@ -1,0 +1,23 @@
+/*
+ * =====================================================================================
+ *
+ *       Filename:  3b.c
+ *
+ *    Description:  Write a linked-list implementation of the queue module described in
+ *                  Exercise 1. Use two pointers, one pointing to the first node in the 
+ *                  list and the other pointing to the last node. When an item is inser-
+ *                  ted into the queue, add it to the end of the list. When an item is
+ *                  removed from the queue, delete the first node in the list.
+ *
+ *        Version:  1.0
+ *        Created:  05/23/2021 02:45:31 PM
+ *       Revision:  none
+ *       Compiler:  gcc
+ *
+ *         Author:  Augusto del Valle (aj), ajdelvalle@gmail.com
+ *   Organization:  
+ *
+ * =====================================================================================
+ */
+
+

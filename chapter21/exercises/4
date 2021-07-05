@@ -1,0 +1,50 @@
+// Future Library directions
+// All external names described below  in the C99 Standard are reserved
+// no matter what headers are included by the program.
+//
+// .26.1  Complexarithmetic<complex.h>
+//
+// The function names
+// cerf
+// cerfc
+// cexp2
+// cexpm1
+// clog10
+// clog1p
+// clog2
+// clgamma
+// ctgamma
+// and  the  same  names  suffixed  with f or l may be added  to  the  declarations
+// in  the<complex.h>header.
+//
+// 7.26.2  Character handling<ctype.h>
+// Function names that begin with either is or to, and a lowercase letter may be added 
+// to the declarations in the<ctype.h>header.
+//
+// 7.26.3  Errors<errno.h>
+// Macros that begin with E and a digit or E and an uppercase letter may be added to 
+// the declarations in the<errno.h>header.
+//
+// 7.26.4 Format conversion of integer types<inttypes.h>
+// Macro names beginning with PRI or SCN followed by any lowercase letter or X may 
+// beadded to the macros defined in the<inttypes.h>header.
+//
+// 7.26.5  Localization<locale.h>
+// Macros that begin with LC_ and an uppercase letter may be added to the 
+// definitions in the<locale.h>header.
+//
+// 7.26.6  Signal handling<signal.h>
+// Macros that begin with either SIG and an uppercase letter or SIG_ and an 
+// uppercaseletter may be added to the definitions in the<signal.h>header.
+//
+// 7.26.7  Boolean type and values<stdbool.h>
+// The ability to undefine and perhaps then redefine the macros bool, true, and
+// false is an obsolescent feature.
+//
+// 7.26.8 Integer types<stdint.h>
+// Typedef names beginning with int or uint and ending with _t may be added to 
+// the types defined in the<stdint.h>header.
+// Macro names beginning with INT or UINT and ending with_MAX, _MIN, or _Cmay be 
+// added to the macros defined in the<stdint.h> header.
+//
+//

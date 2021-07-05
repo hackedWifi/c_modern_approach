@@ -1,0 +1,22 @@
+/*
+ * =====================================================================================
+ *
+ *       Filename:  4.c
+ *
+ *    Description:  Modify the stackADT.h and stackADT3.c files of Section 19.4 so that
+ *                  a stack stores values of type void *, as described in Section 19.5;
+ *                  the Item type will no be longer used. Modify stackclient.c so that 
+ *                  it stores pointers to strings in the s1 and s2 stacks.
+ *
+ *        Version:  1.0
+ *        Created:  05/26/2021 04:37:43 PM
+ *       Revision:  none
+ *       Compiler:  gcc
+ *
+ *         Author:  Augusto del Valle (aj), ajdelvalle@gmail.com
+ *   Organization:  
+ *
+ * =====================================================================================
+ */
+
+

@@ -1,0 +1,20 @@
+/*
+ * =====================================================================================
+ *
+ *       Filename:  4a.c
+ *
+ *    Description:  Write an implementation of the Stack type, assuming that Stack is a 
+ *                  structure containing a fixed-length array.
+ *
+ *        Version:  1.0
+ *        Created:  05/24/2021 03:07:30 PM
+ *       Revision:  none
+ *       Compiler:  gcc
+ *
+ *         Author:  Augusto del Valle (aj), ajdelvalle@gmail.com
+ *   Organization:  
+ *
+ * =====================================================================================
+ */
+
+

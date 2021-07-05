@@ -1,0 +1,21 @@
+/*
+ * =====================================================================================
+ *
+ *       Filename:  2.c
+ *
+ *    Description:  Modify Programming Project 6 from Chapter 10 so that it uses the 
+ *                  stack ADT described in Section 19.4. You may use any of the imple-
+ *                  mentations of the ADT described in that section.
+ *
+ *        Version:  1.0
+ *        Created:  05/25/2021 11:04:41 PM
+ *       Revision:  none
+ *       Compiler:  gcc
+ *
+ *         Author:  Augusto del Valle (aj), ajdelvalle@gmail.com
+ *   Organization:  
+ *
+ * =====================================================================================
+ */
+
+

@@ -1,0 +1,2 @@
+This is the a file to demostrate the use of fopen() in C
+

@@ -1,0 +1,6 @@
+[
+{ "directory": "/home/dzentu/Courses/c_modern_approach/chapter11/programming_projects", 
+    "file": "1.c",
+    "output": "1.0",
+    "arguments": ["/usr/lib/llvm/11/bin/clang-11", "-xc", "1.c", "-Wall", "-std=c11", "-o", "1.0", "-c", "--target=x86_64-pc-linux-gnu"]}
+]

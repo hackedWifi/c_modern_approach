@@ -1,0 +1,2 @@
+// The function prototype needs to come first. The program would not know
+// which function is #undef refering to when the macro is defined.

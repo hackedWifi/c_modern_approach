@@ -1,0 +1,26 @@
+/*
+ * =====================================================================================
+ *
+ *       Filename:  3.c
+ *
+ *    Description:  Modify tha stackADT3.c file of Section 19.4 by adding an int member
+ *                  named len to the stack_type structure. This memeber will keep track
+ *                  of how many items are currently stored in a stack. Add a new function
+ *                  named length that has a Stack parameter and returns the value of the
+ *                  len member. (Some of the existing functions in stackADT3.c will need
+ *                  to be modified as well.) Modify the stackclient.c so that it calls 
+ *                  the length function (and displays the value that returns) after each
+ *                  operation that modifies a stack.
+ *
+ *        Version:  1.0
+ *        Created:  05/26/2021 03:49:10 PM
+ *       Revision:  none
+ *       Compiler:  gcc
+ *
+ *         Author:  Augusto del Valle (aj), ajdelvalle@gmail.com
+ *   Organization:  
+ *
+ * =====================================================================================
+ */
+
+

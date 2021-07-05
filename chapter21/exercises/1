@@ -1,0 +1,4 @@
+// Non-Standard headers are located in /usr/lib/gcc/x86_66-pc-linux-gnu/10.2.0/include
+
+// There are many headers files. Determining their purpose is time consuming. So I wont
+// do that here.

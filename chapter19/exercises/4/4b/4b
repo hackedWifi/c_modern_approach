@@ -1,0 +1,21 @@
+/*
+ * =====================================================================================
+ *
+ *       Filename:  4b.c
+ *
+ *    Description:  Redo the Stack type, this time using a linked-list representation 
+ *                  instead of an array. (Show both the stack.h and stack.c
+ *
+ *
+ *        Version:  1.0
+ *        Created:  05/24/2021 03:12:27 PM
+ *       Revision:  none
+ *       Compiler:  gcc
+ *
+ *         Author:  Augusto del Valle (aj), ajdelvalle@gmail.com
+ *   Organization:  
+ *
+ * =====================================================================================
+ */
+
+
